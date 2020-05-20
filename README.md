@@ -28,7 +28,7 @@ iOs:
   * 4. Tap Add in the upper-right corner.
   * 5. Name your PWA, then tap Add in the upper-right corner.
 
-* Android:
+Android:
   * 1. Navigate to [Budget_Tracker](https://whispering-gorge-72509.herokuapp.com/) with Chrome.
   * 2. Tap the menu button in the upper right corner of Chrome.
   * 3. Tap the icon labeled Add to Home Screen.
