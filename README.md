@@ -1,5 +1,9 @@
 # Budget_Tracker
 
+<p align="center">
+  <img width="460"" src="/screenshots/offline.png">
+</p>
+
 ![GitHub code size](https://img.shields.io/github/languages/code-size/RensyAikara/Budget_Tracker)
 ![GitHub issues](https://img.shields.io/github/issues/RensyAikara/Budget_Tracker.svg)
 
